@@ -1,4 +1,4 @@
-# Automated-Washroom-Light
+# Automated-Washroom-Light (REFER THE REPORT IN THE ABOVE PDF)
 Project on Automated Washroom light using Ultrasonic Sensors
 
 ∗ A user friendly automated washroom light system has been developed using Ultrasonic Sensor HC-SR04 as the input
